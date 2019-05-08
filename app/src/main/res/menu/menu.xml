@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mMusicas"
+        android:icon="@drawable/ic_music"
+        android:title="Músicas"
+        app:showAsAction="never"
+         />
+    <item
+        android:id="@+id/mMoeda"
+        android:icon="@drawable/ic_music"
+        android:title="Moeda"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/mFrutas"
+        android:icon="@drawable/ic_music"
+        android:title="Frutas"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/mTempo"
+        android:icon="@drawable/ic_music"
+        android:title="Tempo"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/mNoticias"
+        android:icon="@drawable/ic_music"
+        android:title="Noticias"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/mCards"
+        android:icon="@drawable/ic_music"
+        android:title="Cards"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/mFotos"
+        android:icon="@drawable/ic_music"
+        android:title="Fotos"
+        app:showAsAction="never"
+        />
+</menu>
